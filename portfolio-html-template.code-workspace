@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../../portfolio-html-template/portfolio-html-template"
+		},
+		{
+			"path": "../../personal-cv-website-template/personal-cv-website-template"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Cycle Free Website Template - Free-CSS.com"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Manish Resume"
+	}
+}
